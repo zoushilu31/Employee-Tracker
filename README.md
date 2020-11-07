@@ -21,5 +21,6 @@ To end the app ctrl+c
 # Usage
 Start the application by typing node app.js to run the app. The user will be prompted a series of options which will allow to view all departments, roles, and all employees. The user can also add a new department, a role and an employee. The app allows for the user to update an employee's role.
 
+
 # Walk throught video link: 
 https://drive.google.com/file/d/1Hw10CG15FY7W8Ou8yhy9ZGnOTVmeS4g7/view?usp=sharing
