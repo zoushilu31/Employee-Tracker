@@ -1,4 +1,4 @@
-const mysql = require("mysql");
+const mysql = require("mysql2");
 const inquirer = require("inquirer");
 const cTable = require("console.table");
 const { resolve } = require("path");
@@ -10,7 +10,7 @@ const connection = mysql.createConnection({
   user: 'root',
   // Your MySQL password
   password: 'zoushilu',
-  database: 'employee_db'
+  database: 'employeeDB'
 });
 
 connection.connect(function (err){
@@ -197,6 +197,7 @@ async function addEmployee() {
         })
       
     })
+
 
     
 };

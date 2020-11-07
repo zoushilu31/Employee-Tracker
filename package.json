@@ -1,11 +1,12 @@
 {
   "name": "Employee-Tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "* npm install --save mysql2\r * npm install inquirer",
   "main": "app.js",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
     "mysql2": "^2.2.5"
   },
   "devDependencies": {},
