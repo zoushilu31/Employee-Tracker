@@ -24,3 +24,6 @@ Start the application by typing node app.js to run the app. The user will be pro
 
 # Walk throught video link: 
 https://drive.google.com/file/d/1Hw10CG15FY7W8Ou8yhy9ZGnOTVmeS4g7/view?usp=sharing
+
+# Repo
+https://zoushilu31.github.io/Employee-Tracker/.
